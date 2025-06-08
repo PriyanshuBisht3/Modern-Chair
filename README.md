@@ -12,7 +12,7 @@ A modern, responsive UI for a product showcase where users can select different 
 
 ## 🚀 Demo
 
-> View a live demo (optional): 
+> View a live demo (optional): https://priyanshubisht3.github.io/Modern-Chair/
 
 ---
 
